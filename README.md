@@ -1,1 +1,3 @@
-"# lab-0-Brandon-G45" 
+Name: Brandon Garcia
+UT EID: bmg2768
+Hobby: Video Games
